@@ -6,7 +6,7 @@ test("New Employee created", ()=> {
 });
 
 test("Set Employee Name via constructor argument", () => {
-    const name = "Joseph";
+    const name = "hugo";
     const emp = new Employee(name);
     expect(emp.name).toBe(name);
 });
@@ -19,30 +19,30 @@ test("Set ID via constructor argument", () => {
 
 test("Set Email via constructor argument", () => {
     const testValue = "test@valormm.com";
-    const emp = new Employee("Jose", 1, testValue);
+    const emp = new Employee("hugo", 1, testValue);
     expect(emp.email).toBe(testValue);
 });
 
 test("Get name via getName()", () => {
-    const testValue = "Joseph";
+    const testValue = "hugo";
     const emp = new Employee(testValue);
     expect(emp.getName()).toBe(testValue);
 });
 
 test("Get ID via getId()", () => {
     const testValue = 61;
-    const emp = new Employee("Jose", testValue);
+    const emp = new Employee("hugo", testValue);
     expect(emp.getId()).toBe(testValue);
 });
 
 test("Get Email via getEmail()", () => {
     const testValue = "test@valormm.com";
-    const emp = new Employee("Jose", 1, testValue);
+    const emp = new Employee("hugo", 1, testValue);
     expect(emp.getEmail()).toBe(testValue);
 });
 
 test("getRole() functions correctly", () => {
     const testValue = "Employee";
-    const emp = new Employee("Joseph", 1, "test@valormm.com");
+    const emp = new Employee("hugo", 1, "test@valormm.com");
     expect(emp.getRole()).toBe(testValue);
 });
