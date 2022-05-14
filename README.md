@@ -1,6 +1,6 @@
 # Team-Profile-Generator
 # video
-[![my first video ](https://img.youtube.com/vi/fTPp_yEa4eo&t=14s/0.jpg)](https://www.youtube.com/watch?v=fTPp_yEa4eo&t=14s "my first video")
+[![my first video ](https://img.youtube.com/vi/EkUx7TUQBRE/0.jpg)](https://www.youtube.com/watch?v=fTPp_yEa4eo&t=135s "my first video")
 
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 ## Description
@@ -30,7 +30,7 @@ npm install jest --save-dev
 <br />
 This application is covered by the MIT license. 
 ## Contributing
-👪 hugo Alvarado
+hugo Alvarado
 ## Tests
 ✏️ npm install jest --save-dev
 
