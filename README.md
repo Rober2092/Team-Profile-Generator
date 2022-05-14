@@ -1,7 +1,7 @@
 # Team-Profile-Generator
 # video
 [![my first video ](https://img.youtube.com/vi/EkUx7TUQBRE/0.jpg)](https://www.youtube.com/watch?v=fTPp_yEa4eo&t=135s "my first video")
-
+ video link https://www.youtube.com/watch?v=fTPp_yEa4eo&t=143s
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 ## Description
 🔍 A node.js application that uses user input from inquirer to populate a index.html file displaying members of a development team. The index.html file is created in the dist directory.
