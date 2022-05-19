@@ -21,7 +21,7 @@
 ## Installation
 💾 npm init
 
-npm install inquirer
+npm install inquirer.
 
 
 npm install email-validator
